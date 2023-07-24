@@ -1,0 +1,32 @@
+#centre{
+    text-decoration:wavy underline;
+    font-weight:bold;
+    font-style:italic;
+}
+center{
+    background-color:#F5F5DC;
+}
+#centre1{
+     background-color:#78BF4A;
+}
+
+td{
+    background-color:#F5F5DC;
+}
+
+#noms{
+    font-weight:bold;
+}
+#intro1{
+    font-weight:bold;
+    font-family: Comic Sans MS;
+}
+#intro{
+    font-family: Comic Sans MS
+}
+t{
+    font-weight:bold;
+    font-size:150%;
+    color:#004E21;
+    text-decoration:wavy underline;
+}
